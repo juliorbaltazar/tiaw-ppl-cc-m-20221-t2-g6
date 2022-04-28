@@ -1,21 +1,23 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`🤵🏽 Guru do Estagio` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-`CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+`👨‍💻 Trabalho interdisciplinar de aplicações web` 
 
-## Participantes
+
+
+##  Participantes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Julio Ribeiro
+> - Bernardo Peixoto
+> - Pedro Peixoto
+> - Bruno Correa
+> - Luccas Feres
+> - Lucca Camarano
 
 # Estrutura do Documento
 
@@ -54,20 +56,12 @@
 
 # Introdução
 
-## Problema
+## Problemas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
+>Dificuldade na criação de um currículo.
+>Falta de experiência em entrevistas.
+>Falta de confiança e receio de entrar no mercado.
+>Não conseguir contato com empresas que fornecem vagas.
 >
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -76,13 +70,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
+> Criação de uma plataforma que contém vídeos explicativos e de passo a passo, dicas de pessoas que já passaram por este processo, experiências de contratantes e contratados. Conscientizar o usuário sobre certos caminhos que podem ser feitos para se destacar dos demais, ajudando nos principais problemas levantados pela pesquisa.
 > 
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
