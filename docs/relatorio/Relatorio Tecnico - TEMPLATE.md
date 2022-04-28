@@ -77,50 +77,31 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
+> O grupo escolheu o tema de dificuldade de acesso a estágios, pois também somos alunos universitários que se interessam por esse tipo de trabalho,porém ao tentar
+> achar ofertas e oportunidades nesse ramo, encontramos varias dificuldades e problemas que, ao nosso ver, são recorrentes e pertinentes para muitos alunos em 
+> situações similares a nossas. Logo, decidimos ajudar com a criação desse projeto que poderá auxiliar muitas pessoas que enfrentam esses empecilhos.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+ 
+> O nosso serviço é feito para alunos universitarios que buscam vagas de estágio no Brasil inteiro. A proposta envolve criar um site que oferecerá dicas sobre como
+> essas pessoas podem se adequar mais as oportunidades que esse mercado oferece de acordo com as duvidas que esses individuos possuem e suas adequações e capacitações.
+> Ofereceremos dicas sobre o que será melhor para uma certa pessoa baseada nas suas qualidades e caracteristicas pessoais, através de dados e testes que irão ajuda-los
+> em conhecer a si mesmos como profissionais.
+
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
+> Criação de um site que oferecerá mecanicas e dicas para auxiliar o aluno universitário na  busca de estágios, a plataforma oferecerá dicas e guias completos para que a pessoa possa descobrir como ingressar da melhor forma nesse mercado de acordo com suas necessidades e capacitações.
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
